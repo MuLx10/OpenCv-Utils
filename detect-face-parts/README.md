@@ -1,5 +1,5 @@
 
-# Download Face Landmarks From
+# Download and Extract Face Landmarks from
 [Face-Landmarks](https://www.sendspace.com/file/m9v7kn)
 
 # Usage
